@@ -1,0 +1,29 @@
+#bild
+{
+    border: 5px solid white;
+    width: 550px;
+    height: 350px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+body
+{
+    background-color: black;
+}
+#text
+{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #h1h1
+  {
+    display: flex;
+    justify-content: center;
+  }
